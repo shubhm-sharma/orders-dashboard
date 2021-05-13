@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Orders Dashboard",
+  "name": "Orders Dashboard to manage Orders",
   "icons": [
     {
       "src": "favicon.ico",
